@@ -1,1 +1,1 @@
-# IMDb-Movie-Recommendation
+# IMDb Movie Recommendation
